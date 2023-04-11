@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 💬 Contáctame para mas información<br>⚡ Desarrollador web Fullstack<br>📚 Estudiante de programación UTN<br>📍 Resistencia/Chaco/Arg
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Juampi#8198) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Juampi_Merino) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-pablo-merino) 
 
 # 💻 Tech Stack:
