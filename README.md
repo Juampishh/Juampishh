@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-💬 Contáctame para mas información<br>⚡ Desarrollador web Fullstack<br>📚 Estudiante de programación UTN<br>📍 Resistencia/Chaco/Arg
+💬 Contáctame para mas información<br>⚡ Desarrollador web Fullstack<br>📚 Tecnico Universitario en Programacion UTN<br>📍 Resistencia/Chaco/Arg
 
 
 ## 🌐 Social:
